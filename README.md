@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Json Lee.
-- 👀 I’m interested in compiler, runtime system optimizations and everything on the underlying infrastructures, including but not limited to Compiler, Programming Language, Operating System, Runtime, Computer Architecture and etc.
+- 👀 I’m interested in everything on the underlying infrastructures, including but not limited to Compiler, Programming Language, Operating System, Runtime, Computer Architecture and etc.
 - 📫 How to reach me [@lijiansong](https://github.com/lijiansong)
 
 <a href="https://github.com/lijiansong">
