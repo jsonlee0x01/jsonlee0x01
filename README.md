@@ -3,7 +3,7 @@
 - 📫 How to reach me [@lijiansong](https://github.com/lijiansong)
 
 <a href="https://github.com/lijiansong">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lijiansong&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lijiansong&show_icons=true&include_all_commits=true" />
 </a>
 <br/>
 <a href="https://github.com/lijiansong">
